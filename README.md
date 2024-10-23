@@ -1,2 +1,2 @@
 # frontend
-this repository for my frontend web development.
+this repository is for my frontend web development.
